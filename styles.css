@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(90deg, #64e68b, #d6e591);
+    height:100vh;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 60px auto;
+    padding: 10px;
+    height: 500px;
+    width: 400px;
+    background-color: #6eca8a;
+}
